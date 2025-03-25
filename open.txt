@@ -1,0 +1,10 @@
+hello my first commit
+
+hello my second commit 
+
+hello my third commit
+
+hello my fourth commit 
+
+
+hello I want to try squashing it
